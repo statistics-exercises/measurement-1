@@ -4,7 +4,7 @@ Last week we introduced the method of moments.  In doing so we firmed up the not
 
 So as to look at this a different way we are going to consider how we would use statistics when analysing the results from a series of experiments.  The experiment we are going to imagine that we have done involves using an agitator to generate some bubbles in the water.  When we look at the water that was agitated through a microscope we see something that looks like this: 
 
-<ADD PICTURE HERE>
+<img file="bubbles.jpg">
 
 In other words, we have a number of bubbles all of which have different sizes.  We quantify the sizes of the bubbles by measuring their radii.  We can then talk about the distribution of bubble sizes.  In the file called bubbles.dat that you look at by clicking the tab called bubbles in the panel on the left, I have a list of radii in micrometres for 200 of these bubbles.  
 
